@@ -4,6 +4,6 @@ using ForwardDiff
 greet = println("hello world")
 include("extra_file.jl")
 
-export my_f, derivative_of_my_f
+export my_f
 
 end
