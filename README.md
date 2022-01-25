@@ -7,3 +7,4 @@
 [![Build Status](https://api.cirrus-ci.com/github/sandeshkatakam/MyPackage1.jl.svg)](https://cirrus-ci.com/github/sandeshkatakam/MyPackage1.jl)
 [![Coverage](https://codecov.io/gh/sandeshkatakam/MyPackage1.jl/branch/master/graph/badge.svg)](https://app.codecov.io/gh/sandeshkatakam/MyPackage1)
 [![Coverage](https://coveralls.io/repos/github/sandeshkatakam/MyPackage1.jl/badge.svg?branch=master)](https://coveralls.io/github/sandeshkatakam/MyPackage1.jl?branch=master)
+[![Runtests](https://github.com/sandeshkatakam/MyPackage1/actions/workflows/Runtests.yml/badge.svg)](https://github.com/sandeshkatakam/MyPackage1/actions/workflows/Runtests.yml)
