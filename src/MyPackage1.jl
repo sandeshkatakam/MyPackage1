@@ -1,5 +1,8 @@
 module MyPackage1
 
 # Write your package code here.
-greet = prinln("hello world")
+greet = println("hello world")
+include("extra_file.jl")
+
+
 end
