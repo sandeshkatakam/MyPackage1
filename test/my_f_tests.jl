@@ -8,7 +8,3 @@ import MyPackage1
     @test my_f(2,3) == 13
     # Write your tests here.
 end
-
-@testset "Derivative Tests" begin
-    @test derivate_of_my_f(2,1) == 2
-end
